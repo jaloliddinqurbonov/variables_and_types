@@ -6,4 +6,10 @@
 
 # Find the result of that expression 'https://github.com/Final-PythonFoundationHomework/variables_and_types/blob/main/README.md#begin06';
 
-# # Print the variable 'k'.
+# # Print the variable 'k'.a = 24
+a = 24
+b = 3
+c = 5
+k = a - b + c
+print(k)
+
